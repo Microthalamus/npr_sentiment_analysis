@@ -30,5 +30,4 @@ Credits:
 
 
 
-License:
-This project is licensed under the [insert license name]. Please see the LICENSE file for more details.
+
